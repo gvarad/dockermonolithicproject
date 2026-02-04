@@ -1,7 +1,7 @@
 FROM ubuntu:22.04  
 
 
-LABEL dev="anup"
+LABEL dev="Varad"
 
 RUN apt-get update && \
 apt-get install unzip openjdk-11-jdk -y  
